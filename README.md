@@ -27,3 +27,7 @@
 
 All integrations support **CLI** and **MCP** and are easily integratable into e.g. Claude Code or other LLM Clients that support local MCP servers and skills.
 
+#### Project Templates
+
+- [python-kit](https://github.com/jenreh/python-kit) - for "pure" Python project, pre-configured for Claude and Github Copilot with usefull Skills and MCP servers
+- [project-kit](https://github.com/jenreh/project-kit) - template for developing with Appkit.
