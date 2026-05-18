@@ -2,7 +2,17 @@
 
 #### Python based UIs using the [Reflex.dev](https://github.com/reflex-dev) Framework
 
-- **[Appkit](https://github.com/jenreh/appkit)** - Framework with UI components based on [mantine.dev](https://mantine.dev/), a LLM chat and an image generator, and some MCP servers. All as components that could be separatly imported in an Appkit based project 
+- **[Appkit](https://github.com/jenreh/appkit)** Framework with UI components based on [mantine.dev](https://mantine.dev/), 
+
+    - [appkit-commons](https://github.com/jenreh/appkit/tree/main/components/appkit-commons) - Configuration Management, Database convenience, Scheduler, DI with Service Registry
+    - [appkit-user](https://github.com/jenreh/appkit/tree/main/components/appkit-user) - Enterprise user management with SSO support, RBAC, Login and Admin UI
+    - [appkit-mantine](https://github.com/jenreh/appkit/tree/main/components/appkit-mantine) - Comprehensive [Mantine.dev](https://mantine.dev) UI wrapper for Reflex.dev
+    - [appkit-assistant](https://github.com/jenreh/appkit/tree/main/components/appkit-assistant) - AI assistant with MCP server and Skills integration and admin backend
+    - [appkit-imagecreator](https://github.com/jenreh/appkit/tree/main/components/appkit-imagecreator) - Multi-AI image generation and admin backend
+    - some Appkit based [MCP servers](https://github.com/jenreh/appkit/tree/main/components)
+  
+    All as components that could be separatly imported in an Appkit based project 
+
 - **[Alloq](https://github.com/jenreh/alloq)** - Resourceplanning and project forecasting for smal teams
 
 #### AI Agents and MCP Tools
@@ -15,5 +25,5 @@
 - [Apple Homekit](https://github.com/jenreh/homekit-py) and
 - [AVM Fritz Home](https://github.com/jenreh/fritzhome-py) (Thermostates only).
 
-All integrations support **CLI** and **MCP** and are easily integratable into e.g. Claude Code or othe LLM Clients that support local MCP servers and skills.
+All integrations support **CLI** and **MCP** and are easily integratable into e.g. Claude Code or other LLM Clients that support local MCP servers and skills.
 
