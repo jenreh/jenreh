@@ -1,9 +1,3 @@
-# 👋 Hi, I'm Jens
-
-As a hobby I build AI-powered applications — all in Python. Passionate about integrating LLMs into real-world products and automating everything possible.
-
----
-
 ### What I'm Working On
 
 #### Python based UIs using the [Reflex.dev](https://github.com/reflex-dev) Framework
