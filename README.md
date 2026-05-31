@@ -23,11 +23,11 @@
 
 **[Pantau](https://github.com/jenreh/pantau)** - Voice assistant, currently integrated with 
 
-- [Logitech Harmony Hub](https://github.com/jenreh/harmonyhub-py)
-- [Philips Hue](https://github.com/jenreh/huehub-py)
-- [Sonos](https://github.com/jenreh/sonos-py)
-- [Apple Homekit](https://github.com/jenreh/homekit-py) and
-- [AVM Fritz Home](https://github.com/jenreh/fritzhome-py) (Thermostates only).
+- [harmonyhub-py](https://github.com/jenreh/harmonyhub-py) - Logitech Harmony Hub
+- [huehub-py](https://github.com/jenreh/huehub-py) - Philips Hue
+- [sonos-py](https://github.com/jenreh/sonos-py) - Sonos
+- [homekit-py](https://github.com/jenreh/homekit-py) - Apple Homekit
+- [fritzhome-py](https://github.com/jenreh/fritzhome-py) - AVM Fritz Home (currently thermostates only).
 
 All integrations support **CLI** and **MCP** and are easily integratable into e.g. Claude Code or other LLM Clients that support local MCP servers and skills.
 
