@@ -15,6 +15,10 @@
 
 - **[Alloq](https://github.com/jenreh/alloq)** - Resourceplanning and project forecasting for smal teams
 
+#### Graph Databases
+
+- **[Runic](https://github.com/jenreh/runic)** - Alembic like graph schema migrations for [FalkorDB](https://www.falkordb.com)
+
 #### AI Agents and MCP Tools
 
 **[Pantau](https://github.com/jenreh/pantau)** - Voice assistant, currently integrated with 
