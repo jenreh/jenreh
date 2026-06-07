@@ -17,7 +17,7 @@
 
 #### Graph Databases
 
-- **[Runic](https://github.com/jenreh/runic)** - Alembic like graph schema migrations for [FalkorDB](https://www.falkordb.com)
+- **[Runic](https://github.com/jenreh/runic)** - Graph DB ORM and schema migrations for Neo4j, FalkorDB, Memgraph, ArcadeDB and Apache AGE
 
 #### AI Agents and MCP Tools
 
