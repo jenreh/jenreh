@@ -17,7 +17,7 @@
 
 #### Graph Databases
 
-- **[Runic](https://github.com/jenreh/runic)** - Graph DB ORM and schema migrations for Neo4j, FalkorDB, Memgraph, ArcadeDB and Apache AGE
+- **[Runic](https://github.com/jenreh/runic)** - Graph schema migrations and ORM for Cypher-based graph databases. Currently supports Neo4j, FalkorDB, Memgraph, ArcadeDB and Apache AGE
 
 #### AI Agents and MCP Tools
 
