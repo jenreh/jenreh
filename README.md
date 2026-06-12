@@ -21,13 +21,16 @@
 
 #### AI Agents and MCP Tools
 
-**[Pantau](https://github.com/jenreh/pantau)** - Voice assistant, currently integrated with 
+**[Tiberio](https://github.com/jenreh/tiberio)** - Alexa Skill that runs locally on your own server, currently integrated with 
 
 - [harmonyhub-py](https://github.com/jenreh/harmonyhub-py) - Logitech Harmony Hub
-- [huehub-py](https://github.com/jenreh/huehub-py) - Philips Hue
-- [sonos-py](https://github.com/jenreh/sonos-py) - Sonos
 - [homekit-py](https://github.com/jenreh/homekit-py) - Apple Homekit
 - [fritzhome-py](https://github.com/jenreh/fritzhome-py) - AVM Fritz Home (currently thermostates only).
+
+Optional:
+
+- [huehub-py](https://github.com/jenreh/huehub-py) - Philips Hue
+- [sonos-py](https://github.com/jenreh/sonos-py) - Sonos
 
 All integrations support **CLI** and **MCP** and are easily integratable into e.g. Claude Code or other LLM Clients that support local MCP servers and skills.
 
