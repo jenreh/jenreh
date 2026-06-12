@@ -1,6 +1,6 @@
-### What I'm Working On
+## What I'm Working On
 
-#### Python based UIs using the [Reflex.dev](https://github.com/reflex-dev) Framework
+### Python based UIs using the [Reflex.dev](https://github.com/reflex-dev) Framework
 
 - **[Appkit](https://github.com/jenreh/appkit)** Framework with UI components based on [mantine.dev](https://mantine.dev/), 
 
@@ -15,26 +15,25 @@
 
 - **[Alloq](https://github.com/jenreh/alloq)** - Resourceplanning and project forecasting for smal teams
 
-#### Graph Databases
+### Graph Databases
 
 - **[Runic](https://github.com/jenreh/runic)** - Graph schema migrations and ORM for Cypher-based graph databases. Currently supports Neo4j, FalkorDB, Memgraph, ArcadeDB and Apache AGE
 
-#### AI Agents and MCP Tools
+### AI Agents and MCP Tools
 
-**[Tiberio](https://github.com/jenreh/tiberio)** - Alexa Skill that runs locally on your own server, currently integrated with 
+**[Tiberio](https://github.com/jenreh/tiberio)** - Alexa Skill that runs locally on your own server, currently integrated with _harmonyhub_py_, _homekit-py_ and _fritzhome_py_
+
+#### Homeautomation CLIs and MCP Servers
 
 - [harmonyhub-py](https://github.com/jenreh/harmonyhub-py) - Logitech Harmony Hub
 - [homekit-py](https://github.com/jenreh/homekit-py) - Apple Homekit
 - [fritzhome-py](https://github.com/jenreh/fritzhome-py) - AVM Fritz Home (currently thermostates only).
-
-Optional:
-
 - [huehub-py](https://github.com/jenreh/huehub-py) - Philips Hue
 - [sonos-py](https://github.com/jenreh/sonos-py) - Sonos
 
 All integrations support **CLI** and **MCP** and are easily integratable into e.g. Claude Code or other LLM Clients that support local MCP servers and skills.
 
-#### Project Templates
+### Project Templates
 
 - [python-kit](https://github.com/jenreh/python-kit) - for "pure" Python project, pre-configured for Claude and Github Copilot with usefull Skills and MCP servers
 - [project-kit](https://github.com/jenreh/project-kit) - template for developing with Appkit.
