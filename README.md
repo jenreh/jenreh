@@ -36,3 +36,4 @@ All integrations support **CLI** and **MCP** and are easily integratable into e.
 ### Project Templates
 
 - [project-kit](https://github.com/jenreh/project-kit-template) - [Copier](https://copier.readthedocs.io/en/stable/) based python project template.
+- [agent-skills](https://github.com/jenreh/agent-skills) - Skills repository linked as git subtree into the projects. Use with **project-kit** or solo
