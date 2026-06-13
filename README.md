@@ -35,5 +35,4 @@ All integrations support **CLI** and **MCP** and are easily integratable into e.
 
 ### Project Templates
 
-- [python-kit](https://github.com/jenreh/python-kit) - for "pure" Python project, pre-configured for Claude and Github Copilot with usefull Skills and MCP servers
-- [project-kit](https://github.com/jenreh/project-kit) - template for developing with Appkit.
+- [project-kit](https://github.com/jenreh/project-kit-template) - [Copier](https://copier.readthedocs.io/en/stable/) based python project template.
